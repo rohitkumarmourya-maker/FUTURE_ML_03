@@ -1,5 +1,7 @@
 Book Recommendation Chatbot
+
 Overview
+
 This project is an AI-powered chatbot that recommends books based on user preferences. It utilizes Natural Language Processing (NLP) with NLTK for text preprocessing and a weighted recommendation system driven by simulated user feedback. Interactive visualizations aid in exploratory data analysis and system evaluation.
 
 Features
